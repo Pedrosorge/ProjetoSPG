@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(112, 115, 116);
+}
+.desc{
+    margin-left: 10px; border: 1px solid black; border-radius: 10px; height: 30px; width: auto; background-color: rgb(94, 63, 182); font-weight: bold;
+}
+.resp{
+    margin-left: 5px;
+}
